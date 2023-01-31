@@ -1,0 +1,7 @@
+name: gx-env
+channels:
+  - conda
+  - conda-forge
+dependencies:
+  - python=3.9.5
+  - great-expectations==0.15.46
